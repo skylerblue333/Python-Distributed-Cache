@@ -1,0 +1,1 @@
+print('Starting Python-Distributed-Cache service...')\n
